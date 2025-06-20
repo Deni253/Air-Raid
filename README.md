@@ -118,21 +118,19 @@ Users: {
 ## 📸 Screenshots
 
 Login Screen
-![Login](https://github.com/user-attachments/assets/782141fb-d8a5-4bcf-843e-deffaf4010b4)
+<img src="https://github.com/user-attachments/assets/782141fb-d8a5-4bcf-843e-deffaf4010b4" width="250" height="550"/>
 
 Start Screen
-![Start Screen](https://github.com/user-attachments/assets/c7b9e67e-925f-4312-8c62-154bb84224ed)
-
+<img src="https://github.com/user-attachments/assets/c7b9e67e-925f-4312-8c62-154bb84224ed" width="250" height="550"/>
 
 In-Game
-<img src="https://github.com/user-attachments/assets/5f31d307-ca7b-4482-bc23-535b945e729f" width="250" height="350"/>
+<img src="https://github.com/user-attachments/assets/5f31d307-ca7b-4482-bc23-535b945e729f" width="250" height="550"/>
 
 Game Over Modal
-<img src="https://github.com/user-attachments/assets/08865e0c-f15e-40ca-9d84-6c3c1661c79c" width="250" height="350"/>
-
+<img src="https://github.com/user-attachments/assets/08865e0c-f15e-40ca-9d84-6c3c1661c79c" width="250" height="550"/>
 
 Leaderboard
-<img src="https://github.com/user-attachments/assets/32a317a4-bac3-4f0b-9e75-7781fb16a209" width="250" height="350"/>
+<img src="https://github.com/user-attachments/assets/32a317a4-bac3-4f0b-9e75-7781fb16a209" width="250" height="550"/>
 
 ---
 
