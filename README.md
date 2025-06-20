@@ -113,8 +113,9 @@ Users: {
     updatedAt: "2025-06-17T20:59:00Z"
   }
 }
-
-📸 Screenshots
+```
+---
+## 📸 Screenshots
 
 Login Screen
 ![Login](https://github.com/user-attachments/assets/782141fb-d8a5-4bcf-843e-deffaf4010b4)
@@ -134,7 +135,7 @@ Game Over Modal
 Leaderboard
 ![LeaderBoard](https://github.com/user-attachments/assets/32a317a4-bac3-4f0b-9e75-7781fb16a209)
 
-
+---
 
 🔮 Future Improvements
 Add background music and sound effects
