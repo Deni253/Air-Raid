@@ -133,7 +133,7 @@ Game Over Modal
 
 
 Leaderboard
-![LeaderBoard](https://github.com/user-attachments/assets/32a317a4-bac3-4f0b-9e75-7781fb16a209)
+<img src="https://github.com/user-attachments/assets/32a317a4-bac3-4f0b-9e75-7781fb16a209" width="250" height="150"/>
 
 ---
 
