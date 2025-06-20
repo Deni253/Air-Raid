@@ -18,7 +18,7 @@
 - **Firebase integration** for storing user scores
 - **Leaderboard** with ascending/descending sorting
 - **Smooth animations** for player and enemy planes
-- **Daily notification at 21:00** (via Awesome Notifications)
+- **Daily notification at 22:00** (via Awesome Notifications)
 - **Looping video background** during gameplay
 - Game over **modal** with two options:
   - Restart game
@@ -125,15 +125,14 @@ Start Screen
 
 
 In-Game
-![Gameplay](https://github.com/user-attachments/assets/5f31d307-ca7b-4482-bc23-535b945e729f)
-
+<img src="https://github.com/user-attachments/assets/5f31d307-ca7b-4482-bc23-535b945e729f" width="250" height="350"/>
 
 Game Over Modal
-![Gameover modal](https://github.com/user-attachments/assets/08865e0c-f15e-40ca-9d84-6c3c1661c79c)
+<img src="https://github.com/user-attachments/assets/08865e0c-f15e-40ca-9d84-6c3c1661c79c" width="250" height="350"/>
 
 
 Leaderboard
-<img src="https://github.com/user-attachments/assets/32a317a4-bac3-4f0b-9e75-7781fb16a209" width="250" height="150"/>
+<img src="https://github.com/user-attachments/assets/32a317a4-bac3-4f0b-9e75-7781fb16a209" width="250" height="350"/>
 
 ---
 
