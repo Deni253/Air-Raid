@@ -1,0 +1,82 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+**/*.lock
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/App.framework/
+ios/Flutter/Generated.xcconfig
+Runner.xcworkspace
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Web
+web/.dart_tool/
+
+# Firebase
+firebase-debug.log
+firebase.json
+
+# Logs & Temp
+*.log
+*.tmp
+*.temp
+
+# Others
+*.apk
+*.aab
+*.iml
+.idea/
+.vscode/
+.metadata
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "512680544239",
+    "firebase_url": "https://air-raid-9a79a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "air-raid-9a79a",
+    "storage_bucket": "air-raid-9a79a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512680544239:android:b4a7ec7227311e2447d81a",
+        "android_client_info": {
+          "package_name": "com.example.airplane.airplane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDarlTl9zO6HDfrapopeAEhIRvbhsJgRvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
